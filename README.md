@@ -10,7 +10,7 @@ Confira se o Docker Desktop está instalado e aberto. Você também vai precisar
 
 ### 1. Abra a pasta do projeto
 
-Abra um terminal na pasta principal do projeto, onde está o arquivo docker-compose.yml.
+Abra um terminal na pasta principal do projeto: onde está o arquivo docker-compose.yml.
 
 ### 2. Crie o arquivo de configuração
 
